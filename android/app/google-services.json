@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653744361537",
+    "project_id": "instagrammetoyou",
+    "storage_bucket": "instagrammetoyou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653744361537:android:1b6bbb3d4f40b617c336c0",
+        "android_client_info": {
+          "package_name": "com.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsE_S8ROCDAL7ABCck2XCfrVoyOArjlqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
